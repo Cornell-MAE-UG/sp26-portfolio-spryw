@@ -5,7 +5,7 @@ description: Statics problem to design a nutcracker hand tool.
 technologies: [Manual Static Equilibrium Analysis]
 image: /assets/images/macademia.jpg
 ---
-Statics problem to design a nutcracker hand tool. I used it as an example to demonstrate that a simple lever arm is not enough to make a hand tool that can be used by anyone repeatedly and comfortably. Also, it's worth noting that this nut cracker would actually probably need to be even longer, because fitting the nut next to the joint as dimensioned in the diagram would probably not be possible.
+Statics problem to design a nutcracker hand tool. I used it as an example to demonstrate that a simple lever arm is not enough to make a hand tool that can be used by anyone repeatedly and comfortably. Also, it's worth noting that this nut cracker would actually probably need to be even longer, because fitting the nut next to the joint as dimensioned in the diagram would probably not be possible. In the second part of this problem, I demonstrate a lightweight aluminum beam design that could be used for the upper part of the nutcracker subjected to a lot of bending deformation
 <div style="text-align: center;">
   <img src="/sp26-portfolio-spryw/assets/images/nutcracker_problem_pg1.jpg" 
        style="width: 100%; max-height: 90vh; object-fit: contain; display: block; margin: 0 auto;" 
