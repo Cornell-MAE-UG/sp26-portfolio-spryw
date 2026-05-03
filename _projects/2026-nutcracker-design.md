@@ -16,7 +16,7 @@ Statics problem to design a nutcracker hand tool. I used it as an example to dem
        alt="Nutcracker Problem Page 2">
 
 <img src="/sp26-portfolio-spryw/assets/images/nutcracker_problem_pg3.jpg" 
-       style="width: 100%; max-height: 90vh; object-fit: contain; display: block; margin: 20px auto 0 auto;" 
+       style="width: 100%; max-height: 190vh; object-fit: contain; display: block; margin: 20px auto 0 auto;" 
        alt="Nutcracker Problem Page 2">
 
 <img src="/sp26-portfolio-spryw/assets/images/nutcracker_problem_pg4.jpg" 
